@@ -1,0 +1,20 @@
+{
+  "name": "TodoApi",
+  "version": "0.1.0",
+  "description": "Todo Api",
+  "author": "Nikolaev Tomov",
+  "license": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "body-parser": "^1.12.4",
+    "express": "^4.12.3",
+    "morgan": "^1.7.0",
+    "serve-static": "^1.9.2"
+  },
+  "dependencies": {
+    "cors": "^2.8.1"
+  }
+}
